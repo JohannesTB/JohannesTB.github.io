@@ -54,3 +54,8 @@ nav a:hover {
 h1 {
     color: #3a099c;
 }
+
+input {
+    width: 50%;
+    margin: 10px
+}
