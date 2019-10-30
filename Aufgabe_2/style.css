@@ -55,7 +55,30 @@ h1 {
     color: #3a099c;
 }
 
-input {
-    width: 50%;
-    margin: 10px
+input[type=text] {
+    background-color: lightgray;
+    color: white;
+    width: 40%;
+    font-size: 18px;
+    padding: 4px 4px 4px 20px;
+    margin: 6px 0px 6px 0px;
+}
+
+textarea {
+    background-color: lightgray;
+    color: white;
+    width: 60%;
+    font-size: 18px;
+    padding: 4px 4px 4px 20px;
+    margin: 6px 0px 6px 0px;
+}
+
+input[type=submit] {
+    background-color: lightgray;
+    color: white;
+    width: 20%;
+    font-size: 18px;
+    padding: 4px 4px 4px 20px;
+    margin: 6px 0px 6px 0px;
+    text-align: left;
 }
