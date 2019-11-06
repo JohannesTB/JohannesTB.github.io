@@ -1,0 +1,16 @@
+a {
+    font-size: 20pt;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+    background-color: red;
+    color: white;
+    border: black;
+    border-radius: 10px 10px 10px 10px;
+}
+
+body {
+    max-width: 800px;
+    margin-top: 200px;
+    margin-left: 400px;
+    background-image: url(./Station_1/images/bg.png);
+}
