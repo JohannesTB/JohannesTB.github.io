@@ -1,0 +1,28 @@
+body {
+background-image: url(./images/bg.png);
+}
+
+.wrapper {
+position: relative;
+left: 50%;
+top: 150px;
+}
+
+.busch {
+position: absolute;
+left: -55px;
+top: -70px;
+}
+
+.pinguin {
+position: absolute;
+left: 500px;
+top: 200px;
+}
+
+.text {
+position: absolute;
+left: 60px;
+top: 100px;
+color: white;
+}
