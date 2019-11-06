@@ -1,13 +1,11 @@
 body{
-    background-image: url(./EIA1-WiSe19-20/Aufgabe_3/Station_4_Fonts/images/bg.png);
+    background-image: url(./images/bg.png);
     font-family: 'rosseregular'
 }
 .container{
-    position: absolute;                                                              
+    position: relative;                                                              
     left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-    z-index: 1;
+    top: 150px;
 }
 @font-face {
     font-family: 'rosseregular';
@@ -16,10 +14,9 @@ body{
     font-weight: normal;
     font-style: normal;
 }
-h1{
+.text{
     color: white;
-    position: relative;
-    top: 290px;
-    left: 500px;
-    z-index: 2;
+    position: absolute;
+    top: 150px;
+    left: 50px;
 }
