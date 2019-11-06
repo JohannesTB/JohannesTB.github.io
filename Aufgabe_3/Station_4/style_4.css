@@ -1,6 +1,6 @@
 body{
     background-image: url(./images/bg.png);
-    font-family: 'rosseregular'
+    font-family: 'Jellyka'
 }
 .container{
     position: relative;                                                              
@@ -8,9 +8,8 @@ body{
     top: 150px;
 }
 @font-face {
-    font-family: 'rosseregular';
-    src: url(./EIA1-WiSe19-20/Aufgabe_3/Station_4_Fonts/fonts/rosse-webfont.woff2) format('woff2'),
-         url(./EIA1-WiSe19-20/Aufgabe_3/Station_4_Fonts/fonts/rosse-webfont.ttf) format('woff');
+    font-family: 'Jellyka';
+    src: url(./fonts/Jellyka\ Delicious\ Cake.ttf) format('woff');
     font-weight: normal;
     font-style: normal;
 }
