@@ -1,0 +1,51 @@
+body {
+    color: white;
+    background-image: url(./images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    font-size: 8pt;
+}
+
+h1 {
+    font-size: 8pt;
+}
+
+.width100 {
+    width: 100%;
+}
+
+.fragenwrapper {
+    position: relative;
+    width: 100%;
+}
+
+.frage {
+    position: absolute;
+    top: 25%;
+    left: 23%;
+}
+
+.antwortwrapper {
+    position: relative;
+}
+
+.antwort {
+    position: absolute;
+    top: 0%;
+    left: 45%;
+}
+
+.joker {
+    margin: 25px 0px 10px 0px;
+    width: 100%
+}
+
+.joker1 {
+    width: 10%;
+}
+
+.joker2 {
+    width: 10%;
+}
+
+
