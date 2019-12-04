@@ -1,0 +1,153 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+}
+
+#drumpad {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    width: 462px;
+
+}
+
+#kick {
+    width: 150px;
+    height: 150px;
+    border: 20px;
+    border-radius: 5px;
+    background-image: linear-gradient(#1E90FF, #0000FF);
+    display: inline;
+    float: left;
+    margin: 2px;
+}
+
+#kick:hover {
+    background-image: linear-gradient(#0000FF, #1E90FF);
+}
+
+#snare {
+    width: 150px;
+    height: 150px;
+    border: 5px;
+    border-radius: 5px;
+    background-image: linear-gradient(#1E90FF, #0000FF);
+    display: inline;
+    float: left;
+    margin: 2px;
+}
+
+#snare:hover {
+    background-image: linear-gradient(#0000FF, #1E90FF);
+}
+
+#hihat {
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+    background-image: linear-gradient(#1E90FF, #0000FF);
+    display: inline;
+    float: left;
+    margin: 2px;
+}
+
+#hihat:hover {
+    background-image: linear-gradient(#0000FF, #1E90FF);
+}
+
+#c {
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+    background-image: linear-gradient(#FFB6C1, #FF00FF);
+    display: inline;
+    float: left;
+    margin: 2px;
+}
+
+#c:hover {
+    background-image: linear-gradient(#FF00FF, #FFB6C1);
+}
+
+#f {
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+    background-image: linear-gradient(#FFB6C1, #FF00FF);
+    display: inline;
+    float: left;
+    margin: 2px;
+}
+
+#f:hover {
+    background-image: linear-gradient(#FF00FF, #FFB6C1);
+}
+
+#g {
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+    background-image: linear-gradient(#FFB6C1, #FF00FF);
+    display: inline;
+    float: left;
+    margin: 2px;
+}
+
+#g:hover {
+    background-image: linear-gradient(#FF00FF, #FFB6C1);
+}
+
+#a {
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+    background-image: linear-gradient(#FFB6C1, #FF00FF);
+    display: inline;
+    float: left;
+    margin: 2px;
+}
+
+#a:hover {
+    background-image: linear-gradient(#FF00FF, #FFB6C1);
+}
+
+#voc1 {
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+    background-image: linear-gradient(#FFD700, #FF8C00);
+    display: inline;
+    float: left;
+    margin: 2px;
+}
+
+#voc1:hover {
+    background-image: linear-gradient(#FF8C00, #FFD700);
+}
+
+#voc2 {
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+    background-image: linear-gradient(#FFD700, #FF8C00);
+    display: inline;
+    float: left;
+    margin: 2px;
+}
+
+#voc2:hover {
+    background-image: linear-gradient(#FF8C00, #FFD700);
+}
+
+div:hover {
+    cursor: pointer;
+}
+
+#play {
+    text-align: center;
+}
+
+img:hover {
+    cursor: pointer;
+}
